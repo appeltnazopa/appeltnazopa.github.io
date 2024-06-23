@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://appeltnazopa.github.io/rss/sitemap.txt
